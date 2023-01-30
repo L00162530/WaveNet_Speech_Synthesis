@@ -3,6 +3,7 @@ import wave
 import numpy as np
 import matplotlib.pyplot as plt
 
+
 wav_obj = wave.open('waveNet_sample.wav', 'r')
 
 sample_freq = wav_obj.getframerate()
