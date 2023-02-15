@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "wavenet-speech-synthesis",
+  "private_key_id": "9f853e5d5f78061e4a1f37445dfaef922978220b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDnQEtfMAjkc9cC\n2saAYy+LIMm4J2ZbVPneuC0rZDNlK9lwQWiNizBDGoJxfZvOfUIEfnVY9d9JBtWI\ne+SDO9hdqirXHRMKnPdds4bXv6kgBn6fCRwKVgEKOtJg2C/+tQnOME4tDuxXo263\nPoTIgdDoF/gl1Pxf4WHqbARxoT/HXNGaG1CEPD/JX0aTe7B8hUCoLyRJ8XlaF/TE\nhPL+KJkNEqnQK4XpVn0jRXg4w8Qqa82257pAnN8vWlAPqFcL8UihDgK2LM8Iu4ls\n63XEiAlh7buOLwBvsRIpSFdEkYB49SJApyWirBhZff/pZMKl1k/WGDMVMB5EuAf7\nNbQ6UPKXAgMBAAECggEAHgVew5C81sujEh/MvUYjGfC7v0h+JUU22w8V7hgoA+5Z\nYBVduWJkdZGvdYRVAc2JEIRKP65LunNErV9IHzFZuW8p+JsxqaMPCf8QdlnPXvT4\n4zSPi1f28pkITsJCGNLv3vCudXMGg6oX6XoYSt9ve3IBKQgpa1kbGQ/E0+uXGA5Z\nilqusrpKWwRgA5/IweKDLIkN0TWLFYFouUeCNmubleCxkpY+qMJAnW4N4sZp9LP8\nWIbf45UzOZ7MTBFqERWlT8yqyaWs+f2Tyw6+zmlwM2DqoAbgCSIcU/R4ScjiOp3+\nUw2FtHagcXfYyhyZVLehoW55Z3pLc/DW5mETkdsDYQKBgQD1lpUNRZM+LUIFKcrE\nVF3ZUlxwvH1sNHeHXYH5ZQWK9HwQJHn2e9KVUvkE3HsOospbuwX2un5qKFaz7D29\nRwWlpv4w5eU0Rva9UGX7f707UloM8dBrXb9OxSHV0WOrhkh+VUtrbH6c5SMiq9p9\nkUUsnmStcq8JR3AUiuEq/HUcBQKBgQDxDhv0m+hIGZCWQ8jcs23ms7Hktemhsk89\nTIapQwbUwuKuwT44cH8rlZq0Fne/L1muRHsWIqvK4K36aYiBYcEy4XMJWVpNIvDL\nXsMLYoNau+Uaiv4smYXCPu+di7JYRdWnYNTnhs6dCAZOMmzrX+G00WT2tkB7d29X\nuE36aN5y6wKBgCSNJt30zvdgEQVntPAHhnhD09JLm3cxT+Drv954dJy7yoM0ippu\nz2a+FKXukroY7Hk+mqKgGxR9sHnS3VWAboy7D/YDIVvoe+ytPKBz4Jwlo5VtoBF6\nwHBe0qxaH7V1pPB4jWMNoMKFL/eHEFvD9UGwyVcvTHHbGglUqjKVpHBpAoGAbndJ\nxlngI5JbmRDtLn6ngY6dmjLnIuuEtpGoME8ABWZd3Tm/Wrvq+z0uzRJyw9FeJqdJ\nRMaUtX8rG1Nbc/cpQzjfr8wbvrehY4FEnqYBjgYHIpfJjQS5sF+JDUikbSFrnK2a\nQ5OagYnY4eLn2SFyXJuMyiaQ/EOqaaeTTIrcTgsCgYEAlQkuv39a7IRBjmnp1lY6\nQMpKeedgYquhnf5NVdM5BCQ4cAZ4iw3eYhkQL1Mn1rlbfqzWsl6iSFWLiJFT0l5g\nfjGourJqCw5VJ3LxOelHWt8gTEE5D4r7km730xX2rOiTvKS42v4PoU0ekARXJbx6\nLMZBEMG8ZOUufnxw9Xm2MbY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "tts-api@wavenet-speech-synthesis.iam.gserviceaccount.com",
+  "client_id": "105990179071491011221",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tts-api%40wavenet-speech-synthesis.iam.gserviceaccount.com"
+}

@@ -1,3 +1,4 @@
+
 import pyaudio
 import wave
 
@@ -32,7 +33,7 @@ stream.close()
 p.terminate()
 
 #asve the file
-wf = wave.open("waveNet_sample.wav", 'wb')
+wf = wave.open("Audio_Files/waveNet_Audio.wav", 'wb')
 wf.setnchannels(CHANNELS)
 wf.setsampwidth(p.get_sample_size(FORMAT))
 wf.setframerate(RATE)
